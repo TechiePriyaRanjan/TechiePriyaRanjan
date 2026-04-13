@@ -18,7 +18,7 @@ I collaborate closely with backend teams to deliver seamless full-stack experien
     </a>
   </span>
   <span style="display: flex; align-items: center;">
-    <a href="https://www.linkedin.com/in/techiepriyaranjan/" style="text-decoration: none; display: inline-flex; align-items: center; gap: 5px;">
+    <a href="https://x.com/TechiePriyaRnjn" style="text-decoration: none; display: inline-flex; align-items: center; gap: 5px;">
       <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="20" style="margin-right: 6px;">/techiepriyarnjn
     </a>
   </span>
